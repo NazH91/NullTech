@@ -52,7 +52,7 @@ If the IC, Name, and Plate don’t match, the system **blocks the submission** (
 ## How to Run
 ```bash
 # Clone project
-git clone <repo-url>
+git clone [<repo-url>](https://github.com/NazH91/NullTech.git)
 cd insurance_verification
 
 # Install dependencies
